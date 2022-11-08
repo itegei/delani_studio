@@ -9,7 +9,7 @@
 This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/itegei/delani_studio/master/images/delani.home.png" width="900px" height="440px">
+<img src="https://github.com/itegei/delani_studio/blob/master/images/delani.home.png" width="900px" height="440px">
 
 ## Live Page 
 https://itegei.github.io/delani_studio 
